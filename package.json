@@ -1,0 +1,14 @@
+{
+  "name": "aoc-2023",
+  "version": "1.0.0",
+  "description": "AOC 2023 solutions in TS",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anmol Gupta | github:ish-u",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^20.10.1"
+  }
+}
