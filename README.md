@@ -1,4 +1,4 @@
-## AOC 2022
+## AOC 2023
 
 - Clone the Repo
 - Run `npm i` to install packages
